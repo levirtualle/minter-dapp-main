@@ -1,9 +1,9 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; // Replace with your own contract address
+const contractAddress = "0x875cdE6e2620146F9F4F54C1b6280eD4Fa11D110"; // Replace with your own contract address
 const chain = 'goerli'; // goerli, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the Unknown Crew NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'Unknown Crew NFT Project is a Free Mint NFT collection of cadets and officers that is inspired by famous sci-fi tv series like Star Trek and The Orville. This collection was created to celebrate the official launch of the Unknown Universe Academy Discord Server. You can mint for free but you would need to bare the gas fee. These NFTs are collectibles and you can do what ever you want with it. For further clarification, please join our Discord server.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
