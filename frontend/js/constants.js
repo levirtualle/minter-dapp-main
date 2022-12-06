@@ -3,7 +3,7 @@ const chain = 'polygon'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Unknown Crew NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Unknown Crew NFT Project is a Free Mint NFT collection of cadets and officers that is inspired by famous sci-fi tv series like Star Trek and The Orville. This collection was created to celebrate the official launch of the Unknown Universe Academy Discord Server. Minting is FREE! You only have to bare the gas fee. These NFTs consist of 10,000 collectibles and get them while they are still available. For further clarification, please join our Discord server by clicking the icon above.';
+const welcome_p = 'Unknown Crew NFT Project is a Free Mint NFT collection of cadets and officers that is inspired by famous sci-fi tv series like Star Trek and The Orville. This collection was created to celebrate the official launch of the Unknown Universe Academy Discord Server, Free gift for the upcoming Christmas for anyone interested and to celebrate the coming New Year. Minting is FREE! You only have to bare the gas fee. These NFTs consist of 10,000 collectibles and get them while they are still available. For further clarification, please join our Discord server by clicking the icon above.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
